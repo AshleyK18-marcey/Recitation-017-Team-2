@@ -1,15 +1,8 @@
+Evan Thompson
+fdasfdsa
 # Recitation-017-Team-2
-
+fdsa
 Ashley - AshleyK18-marcey 
 Evan - ze3roop
 Duston - dustonmcgarry 
 Sam - Sham-Serman
-
-
-edit from Ashley's branch 
-
-merge conflict edit 
-
-merge CONFLICT
-
-**This project is for a website that includes buying and selling products. 
