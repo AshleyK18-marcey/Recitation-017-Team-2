@@ -5,4 +5,4 @@ Evan - ze3roop
 Duston - dustonmcgarry 
 Sam - Sham-Serman
 
-merge conflict edit 
+merge CONFLICT
