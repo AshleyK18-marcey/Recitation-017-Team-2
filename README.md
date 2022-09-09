@@ -12,3 +12,4 @@ merge conflict edit
 
 merge CONFLICT
 
+**This project is for a website that includes buying and selling products. 
