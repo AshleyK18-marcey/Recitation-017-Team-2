@@ -14,3 +14,5 @@ fdsa
 
 merge CONFLICT
 
+Adding edits to the proposed changes.  These lines describe our project.
+The project involves a site that allows users to search and buy products.
