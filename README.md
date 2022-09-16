@@ -1,4 +1,5 @@
-Project Team Members: Duston McGarry
+
+Project Team Members: 
 # Recitation-017-Team-2
 
 Ashley - AshleyK18-marcey 
